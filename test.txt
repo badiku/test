@@ -15,4 +15,4 @@ flow local dev 1
 feature1 2
 
 fix1
-fix2 2
+fix2 2 3
