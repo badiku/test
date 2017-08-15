@@ -3,14 +3,20 @@
 
 测试 本地更新，远程也更新
 
+feature2
 
 本地更新
 remote update
+
+feature 3
+
 remote update2
 
 
 
 flow local dev 1
+dev 2
+
 
 feature1 2
 
