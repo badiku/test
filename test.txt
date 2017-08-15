@@ -5,3 +5,5 @@
 
 
 本地更新
+remote update
+remote update2
